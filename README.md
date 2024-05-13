@@ -1,7 +1,7 @@
 # Cat Paws 貓咪服飾、配件
 販售貓咪服飾、配件、生活用品
 
-網站:https://ariel0508.github.io/CatPaws/#/
+網站:https://ariel0508.github.io/cat-paws/
 
 ## 前台功能介紹
 - 首頁
